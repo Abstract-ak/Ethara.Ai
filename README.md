@@ -4,9 +4,9 @@ A lightweight Human Resource Management System built as a full-stack web applica
 
 ## Live URLs
 
-- **Frontend**: _(Add your Vercel URL after deployment)_
-- **Backend API**: _(Add your Render URL after deployment)_
-- **API Docs**: _(Your Render URL)/docs_
+- **Frontend**: https://hrmslite-frontends.vercel.app/
+- **Backend API**: https://hrms-lite-backend-psq9.onrender.com/
+- **API Docs**: https://hrms-lite-backend-psq9.onrender.com/docs
 
 ## Tech Stack
 
